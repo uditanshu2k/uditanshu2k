@@ -1,4 +1,4 @@
-🐍 Pythonista with a flair for full-stack finesse 🌐
+🐍 Python Developer with a flair for full-stack finesse 🌐
 
 💻 Software Developer | 🐙 Git Enthusiast | 🚀 Coding in Python, Go, Ruby, Java, C++, C#, and more!
 
@@ -14,4 +14,4 @@
 
 🚢 "Dockerizing" problems and shipping solutions like a pro!
 
-💾 Check out my repositories and let's code together! #PythonDeveloper #CodeCraftsman
+💾 Check out my repositories and let's code together!
